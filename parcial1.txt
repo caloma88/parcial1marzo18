@@ -2,3 +2,5 @@ inicio
 variable a,
 variable b,
 variable c,
+
+suma = 0
