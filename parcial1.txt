@@ -13,4 +13,4 @@ mostrar suma
 
 mostrar mensaje "los numeros pares entre 1 y 100 son: " +suma
 
-
+se corre programa por primera vez
