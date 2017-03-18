@@ -4,3 +4,7 @@ variable b,
 variable c,
 
 suma = 0
+
+para i=2 hasta 100 incrementando en 2
+
+fin para
