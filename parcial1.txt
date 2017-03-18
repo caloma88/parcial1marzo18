@@ -6,11 +6,15 @@ variable c,
 suma = 0
 
 	para i=2 hasta 100 incrementando en 2
-
+		mostrar suma
 	fin para
 
-mostrar suma 
+	PARA I=100 HASTA 2 decrementando en 2
+		mostrar resta
+	fin para 
 
+mostrar suma 
+mostrar resta
 mostrar mensaje "los numeros pares entre 1 y 100 son: " +suma
 
 se corre programa por primera vez
