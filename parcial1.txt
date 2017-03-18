@@ -10,3 +10,5 @@ para i=2 hasta 100 incrementando en 2
 fin para
 
 mostrar suma 
+
+mostrar mensaje "los numeros pares entre 1 y 100 son: " +suma
